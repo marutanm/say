@@ -89,7 +89,7 @@ so:so
 su:su
 ta:ta
 te:te
-to:to
+to:toh
 tsu:tsu
 u:wu
 wa:wa
