@@ -20,9 +20,3 @@ class KanaDict
     end
 
 end
-
-# d = KanaDict.new
-# p d.phonetic(ARGV)
-# p d.phonetic(ARGV).class
-
-
