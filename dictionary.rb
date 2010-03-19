@@ -10,7 +10,11 @@ class KanaDict
         p text
         text.map!{|e|
             # p e + ":" + @dict[e]
+            if (!@dict[e])
+                e = e
+            else
             e = @dict[e]
+            end
         }
         return text
     end
